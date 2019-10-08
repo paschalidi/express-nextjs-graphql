@@ -5,6 +5,7 @@ a simple project that I used to learn graphql typescript and dive more into the 
 ## How to run this project after having it cloned
 
 ```
+yarn
 yarn bootstrap
 yarn serve
 ```
